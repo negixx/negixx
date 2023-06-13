@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @negixx
+- 👋 Hi, I’m @negi
 - 👀 I’m interested in ...hacking,programming,finding loop holes in a system
 - 🌱 I’m currently learning ...Networking
 - 💞️ I’m looking to collaborate on ...
